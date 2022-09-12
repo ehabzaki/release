@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ehabzaki/release/compare/v1.1.0...v1.2.0) (2022-09-12)
+
+
+### Features
+
+* test2 ([6089f77](https://github.com/ehabzaki/release/commit/6089f772c4a6bb98da51d2588b4e12b41142304a))
+
 # [1.1.0](https://github.com/ehabzaki/release/compare/v1.0.0...v1.1.0) (2022-09-12)
 
 
