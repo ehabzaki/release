@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/ehabzaki/release/compare/v1.3.1...v1.4.0) (2022-10-09)
+
+
+### Features
+
+* update readme ([b4749d9](https://github.com/ehabzaki/release/commit/b4749d90e5ebce6a628c5496524ac4de46c633b3))
+
 ## [1.3.1](https://github.com/ehabzaki/release/compare/v1.3.0...v1.3.1) (2022-09-14)
 
 
